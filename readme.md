@@ -19,7 +19,7 @@ We are designing an online teaching tool as zoom is not a great tool for many us
 Age:24 years, Qualifications:MS-CS, Job: Software developer and part time teacher, Motivaltional teacher, Attitude: Friendly, Flexibility: Confident, Achievement: ICPC participant.
 * Jamal Ali:-
 Age:59 years, Qualifications: PhD in Mathematics, Job: Teacher,Experience: teaching since 1990, weaknesses: weak eyesight, short tempered and less familiar with technology.
-* bdul Ghafoor:-
+* Abdul Ghafoor:-
 Age: 21 years old, Qualification: Enrolled in BS-CS, Strengths: Sharp minded, familiar with technology,Achievement:Intermidate position holder and Code Battle2019 Runner-up.
 
 
