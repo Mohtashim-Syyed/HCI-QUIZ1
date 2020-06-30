@@ -34,7 +34,7 @@ Bridge:Dialogue box for confirming wheather to start video or not.
 * Students wait in meeting room for long as zoom do not notify for it constantly.
 Bridge: The tool will constantly pop up the notification after every 1 minute if there is student in meeting room.
 ### Gulf of Evalution ###
-* Costant feedback will be provided to user.
+* Constant feedback will be provided to user.
 * Immediate feedback:- voice feedback because audable feedback is more effective.
 
  
