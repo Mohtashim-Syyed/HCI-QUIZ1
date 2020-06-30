@@ -14,6 +14,7 @@ We are designing an online teaching tool as zoom is not a great tool for many us
 * chat box will open automatically when there is a new message.
 * Meeting minutes will be calculated for each student duuring meeting and it will display will the name of each student,it will help the teacher to mark the attendance of students.
 
+
 ## Personas ##
 * Ahmed Khan:- 
 Age:24 years, Qualifications:MS-CS, Job: Software developer and part time teacher, Motivaltional teacher, Attitude: Friendly, Flexibility: Confident, Achievement: ICPC participant.
@@ -33,7 +34,8 @@ Prototype screenshots are available in seperate file of repository.Please check 
 Bridge:Dialogue box for confirming wheather to start video or not.
 * Students wait in meeting room for long as zoom do not notify for it constantly.
 Bridge: The tool will constantly pop up the notification after every 1 minute if there is student in meeting room.
-## Gulf of Evalution ##
+
+## Gulf of Execution ##
 * Constant feedback will be provided to user.
 * Immediate feedback:- voice feedback because audable feedback is more effective.
 
