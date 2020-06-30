@@ -24,7 +24,7 @@ Age: 21 years old, Qualification: Enrolled in BS-CS, Strengths: Sharp minded, fa
 
 
 ## Prototype ##
-![image](qw5.PNG)
+![image](C:\Users\C2D\Desktop\qw5.PNG)
 
 
 ## Gulf of Execution ##
