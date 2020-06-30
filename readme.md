@@ -15,7 +15,7 @@ We are designing an online teaching tool as zoom is not a great tool for many us
 * Meeting minutes will be calculated for each student duuring meeting and it will display will the name of each student,it will help the teacher to mark the attendance of students.
 
 ## Personas ##
-*Ahmed Khan:- 
+* Ahmed Khan:- 
 Age:24 years, Qualifications:MS-CS, Job: Software developer and part time teacher, Motivaltional teacher, Attitude: Friendly, Flexibility: Confident, Achievement: ICPC participant.
 * Jamal Ali:-
 Age:59 years, Qualifications: PhD in Mathematics, Job: Teacher,Experience: teaching since 1990, weaknesses: weak eyesight, short tempered and less familiar with technology.
