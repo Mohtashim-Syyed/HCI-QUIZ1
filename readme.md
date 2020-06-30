@@ -1,4 +1,4 @@
-# HCI 104475: Mobile Application For Teaching Illiterates #
+# HCI 104475: Quiz 1#
 ### PROJECT MEMBERS ###
 StdID | Name
 ------------ | -------------
