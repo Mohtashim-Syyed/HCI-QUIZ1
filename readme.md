@@ -28,7 +28,6 @@ All Prototype screenshots are available as seperate files in repository.Please c
 
 
 ## Gulf of Execution ##
-* User thinks what to do and what actually user do.
 * Video sharing starts just on single button
 Bridge:Dialogue box for confirming wheather to start video or not.
 * Students wait in meeting room for long as zoom do not notify for it constantly.
