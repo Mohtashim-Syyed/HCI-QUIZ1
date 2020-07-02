@@ -29,9 +29,9 @@ All Prototype screenshots are available as seperate files in repository.Please c
 
 ## Gulf of Execution ##
 * Video sharing starts just on single button
-Bridge:Dialogue box for confirming wheather to start video or not.
+ ** Bridge:Dialogue box for confirming wheather to start video or not.
 * Students wait in meeting room for long as zoom do not notify for it constantly.
-Bridge: The tool will constantly pop up the notification after every 1 minute if there is student in meeting room.
+ ** Bridge: The tool will constantly pop up the notification after every 1 minute if there is student in meeting room.
 ## Gulf of Evalution ##
 * Constant feedback will be provided to user.
 * Immediate feedback:- voice feedback because audable feedback is more effective.
