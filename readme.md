@@ -6,6 +6,7 @@ StdID | Name
 63433 | Yousuf Muhammad Khan
 63093 | Murad Ahmed Khan
 63008 | Rafay Khan
+63008 | Rafay Khan
 <!-- Replace name and student ids with acutally group member names and ids-->
 ## Scenario And Tasks ##
 We are designing an online teaching tool as zoom is not a great tool for many users due to some reasons. We have discovered some features which we will add in our tool to make it more interactive and increase it usability. Below are the some features that we will add in our tool.
