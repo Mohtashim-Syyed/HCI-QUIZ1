@@ -10,9 +10,9 @@ StdID | Name
 <!-- Replace name and student ids with acutally group member names and ids-->
 ## Scenario And Tasks ##
 We are designing an online teaching tool as zoom is not a great tool for many users due to some reasons. We have discovered some features which we will add in our tool to make it more interactive and increase it usability. Below are the some features that we will add in our tool.
-* As we all know zoom donot works on facial expressions whuich is a drawback as while teaching it is important for teacher to know wheather students are attentive or not so we will facial expression algorithm using AI to judge expressions of users if they are attentive,sleepy,bored or emjoying.
+* As we all know zoom donot works on facial expressions whuich is a drawback as while teaching it is important for teacher to know wheather students are attentive or not so we will facial expression algorithm using AI to judge expressions of users if they are attentive,sleepy,bored or enjoying.
 * Emojis and stickers for interaction between students and teachers.
-* chat box will open automatically when there is a new message.
+* Chat box will open automatically when there is a new message.
 * Meeting minutes will be calculated for each student duuring meeting and it will display will the name of each student,it will help the teacher to mark the attendance of students.
 
 ## Personas ##
